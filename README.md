@@ -4,4 +4,4 @@
 3. The target audience for this tutorial will be people who are just recently getting into Information Technology.
 4. Here are the links to the history of binary and the tutorial.
 -------------------------------------------------------------------
-   [What is binary?](Binary.md)! [How To: Binary](tutorial.md)!
+   [What is binary?](Binary.md)! [How To: Binary](Tutorial.md)!
