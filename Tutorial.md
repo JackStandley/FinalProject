@@ -14,12 +14,16 @@ These 8 digits all have a specified number that corresponds to their placement i
 
 From right to left the corresponding number is in base 2.
 
-0   0   0   0   0   0   0   0
---------------------------------
-|   |   |   |   |   |   |   |
---------------------------------
-128 64  32  16  8   4   2   1
---------------------------------
+- 1st = 1
+- 2nd = 2
+- 3rd = 4
+- 4th = 8
+- 5th = 16
+- 6th = 32
+- 7th = 64
+- 8th = 128
+
+
 So let's go back to our example:
 
 #### Ex. 00010010
